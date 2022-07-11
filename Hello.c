@@ -5,7 +5,9 @@
 int main() {
  
 	int a=10;
-	cout << "Hello World!";
+	cout << "Hello World!"<<endl;
+	cout<<"I am a C++ programmar";
+	
 	    
 	return 0;
 }
